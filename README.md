@@ -5,13 +5,13 @@ this seems to be a reasonable way of making use of these existing machines.
 
 **Project Status:** WIP, 
 
-<img src="C:\Users\mw2_7\Documents\GitHub\raspiverde\Bonaverde_disassembly\bonaverde.JPG" alt="bonaverde" style="zoom:12%;" />
+<img src="Bonaverde_disassembly\bonaverde.JPG" alt="bonaverde" style="zoom:12%;" />
 
 # 1 Disassembly
 
 See: [Disassembly Instructions](Bonaverde_disassembly/DISASSEMBLY.md)
 
-<img src="C:\Users\mw2_7\Documents\GitHub\raspiverde\Bonaverde_disassembly\back_open.JPG" alt="back_open" style="zoom:12%;" />
+<img src="back_open.JPG" alt="back_open" style="zoom:12%;" />
 
 # 2 Signals, Sensors and Relays
 

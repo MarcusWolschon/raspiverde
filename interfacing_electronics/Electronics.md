@@ -26,13 +26,13 @@ It has outputs
 
 
 
-<img src="C:\Users\mw2_7\Documents\GitHub\raspiverde\Bonaverde_disassembly\opened_left.JPG" alt="opened_left" style="zoom:12%;" />
+<img src="..\Bonaverde_disassembly\opened_left.JPG" alt="opened_left" style="zoom:12%;" />
 
-<img src="C:\Users\mw2_7\Documents\GitHub\raspiverde\Bonaverde_disassembly\opened_power_electronics_box.JPG" alt="opened_power_electronics_box" style="zoom:12%;" />
+<img src="..\Bonaverde_disassembly\opened_power_electronics_box.JPG" alt="opened_power_electronics_box" style="zoom:12%;" />
 
 ## relay box
 
-<img src="C:\Users\mw2_7\Documents\GitHub\raspiverde\Bonaverde_disassembly\opened_right.JPG" alt="opened_right" style="zoom:12%;" />
+<img src="..\Bonaverde_disassembly\opened_right.JPG" alt="opened_right" style="zoom:12%;" />
 
 The box has a screw on the bottom of the side and 2 obvious push fit connectors.
 It can be opened without detaching the front panel.
