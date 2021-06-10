@@ -53,6 +53,26 @@ It should also serve as a nice power supply for our new Raspberry Pi.
 This 10x2 ribbon cable seems to do contain all the control signals we need to attach to.
 
 * TODO: map out the pins
+* 1 (PCB side left)
+* 2
+* 3 (PCB side 2nd from left)
+* 4 
+* 5 (PCB side 3rd from left)
+* 6 
+* 7 (PCB side 4th from left) - Micro switch for inserted coffee pot  - pulled to GND
+* 8
+* 9 (PCB side 5th from left)
+* 10
+* 11 (PCB side 6th from left)
+* 12
+* 13 (PCB side 7th from left) - Micro switch for inserted air filter  - pulled to GND
+* 14
+* 15 (PCB side 8th from left)
+* 16
+* 17 (PCB side 9th from left)
+* 18
+* 19 (PCB side rightmost one)
+* 20
 
 ### less interesting ones:
 
