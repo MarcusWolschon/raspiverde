@@ -21,7 +21,7 @@ It has outputs
 * OP-N1 - thick blue cable - to water heater
 * OP-N2 - thick white cable - to 700W roasting lamp (other think white cable comes from electronics box)
 * OP-N3..N5 - front panel electronics (?)
-* OP-N6 - 2 thin yellow cables - to 230V 6W grinding motor
+* OP-N5 - 2 thin yellow cables - to roasting turntable
 * OP-N6 - thin black - to electronics box
 
 
@@ -38,6 +38,104 @@ The box has a screw on the bottom of the side and 2 obvious push fit connectors.
 It can be opened without detaching the front panel.
 It seems to get lower power signals from the front panel and switch the different high power elements.
 So it seems like we can attach ourself to that ribbon cable instead of the front panel to control this machine without having to touch any high power electronics ourself.
+
+### CN21
+
+This connector seems to be our power supply for the front panel.
+It should also serve as a nice power supply for our new Raspberry Pi.
+
+* Black = GND
+* White = -5V
+* Red = -24V
+
+### CN9
+
+This 10x2 ribbon cable seems to do contain all the control signals we need to attach to.
+
+* TODO: map out the pins
+
+### less interesting ones:
+
+#### SW7
+
+Switch for the air-filter door
+
+...
+
+#### ACL
+
+Power input from the power supply box (Brown)
+
+#### CN1
+
+Stepper(?) motor for roasting fan
+
+#### CN2
+
+Power output to the water heater
+
+#### CN4
+
+* 1+2 (Red) **Unknown** - first small Sensor(?) PCB below roasting chamber
+* 3+4 (Black) **Unknown** - second small Sensor(?) PCB below roasting chamber
+* 5+6 (Brown) Micro switch in roasting chamber
+
+#### CN5
+
+Power input from the power supply box (White)
+
+#### CN6
+
+Micro switch for inserted coffee pot (2x Black)
+
+#### CN7
+
+230V 4W motor to open door below grind (White)
+
+#### CN10
+
+Unknow to coffee pot heater plate (White)
+
+#### CN14
+
+Tap to the water-heater power. 
+(Thick blue cables connected to OP-N1 in the power supply box)
+
+#### CN15-1
+
+Roasting turntable motor (blue)
+
+#### CN15-2
+
+Roasting turntable motor (black)
+
+#### CN16-1
+
+Power input from the power supply box (Blue)
+
+#### CN17
+
+**Unknown** (White)
+
+#### CN18-1
+
+230V 6W grinder motor (Black) 
+
+#### CN18-2
+
+230V 6W grinder motor (Red)
+
+#### CN20
+
+Unused
+
+#### NTC1
+
+**Unknown** (Brown)
+
+#### NTC2
+
+Roasting chamber temperature probe (White)
 
 ## Front panel
 
