@@ -60,19 +60,19 @@ This 10x2 ribbon cable seems to do contain all the control signals we need to at
 * 5 (PCB side 3rd from left)
 * 6 
 * 7 (PCB side 4th from left) - Micro switch for inserted coffee pot  - pulled to GND
-* 8
+* 8 - +3,3V supply?
 * 9 (PCB side 5th from left)
 * 10
 * 11 (PCB side 6th from left)
 * 12 - Micro switch for roast tray being inserted  - pulled to GND
 * 13 (PCB side 7th from left) - Micro switch for inserted air filter  - pulled to GND
-* 14
+* 14 - +5V supply?
 * 15 (PCB side 8th from left)
-* 16
+* 16 - +3,3V supply?
 * 17 (PCB side 9th from left)
-* 18
+* 18 -
 * 19 (PCB side rightmost one)
-* 20
+* 20 - some +3,3V signal (3,21V when idle)
 
 ### less interesting ones:
 
