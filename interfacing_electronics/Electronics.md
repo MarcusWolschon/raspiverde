@@ -64,7 +64,7 @@ This 10x2 ribbon cable seems to do contain all the control signals we need to at
 * 9 (PCB side 5th from left)
 * 10
 * 11 (PCB side 6th from left)
-* 12
+* 12 - Micro switch for roast tray being inserted  - pulled to GND
 * 13 (PCB side 7th from left) - Micro switch for inserted air filter  - pulled to GND
 * 14
 * 15 (PCB side 8th from left)
