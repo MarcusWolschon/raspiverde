@@ -11,7 +11,7 @@ this seems to be a reasonable way of making use of these existing machines.
 
 See: [Disassembly Instructions](Bonaverde_disassembly/DISASSEMBLY.md)
 
-<img src="back_open.JPG" alt="back_open" style="zoom:12%;" />
+<img src="Bonaverde_disassembly/back_open.JPG" alt="back_open" style="zoom:12%;" />
 
 # 2 Signals, Sensors and Relays
 
