@@ -61,9 +61,9 @@ This 10x2 ribbon cable seems to do contain all the control signals we need to at
 * 6 
 * 7 (PCB side 4th from left) - Micro switch for inserted coffee pot  - pulled to GND
 * 8 - +3,3V supply?
-* 9 (PCB side 5th from left)
-* 10
-* 11 (PCB side 6th from left)
+* 9 (PCB side 5th from left) - 3.3V, pulled to GND during grinding
+* 10 - 0V, may be a short voltage while opening or closing the hole in the roasting tray
+* 11 (PCB side 6th from left) - 3.3V, pulled to GND during grinding
 * 12 - Micro switch for roast tray being inserted  - pulled to GND
 * 13 (PCB side 7th from left) - Micro switch for inserted air filter  - pulled to GND
 * 14 - +5V supply?
