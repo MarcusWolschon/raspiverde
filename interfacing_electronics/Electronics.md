@@ -76,12 +76,14 @@ TODO: map out the pins
   * pulled to GND during grinding
   * 🛠 pulling to GND ourself does nothing
   * 🛠 disconnecting during grinding does nothing
+  * 🛠 but disconnecting together with 11 before grinding triggers an error
 * 10 - 0V
   * may be a short voltage while opening or closing the hole in the roasting tray
 * 11 (PCB side 6th from left) - 3.3V
   * pulled to GND during grinding
   * 🛠 pulling to GND ourself does nothing
   * 🛠 disconnecting during grinding does nothing
+  * 🛠 but disconnecting together with 09 before grinding triggers an error
 * 12
   * 🗹 Micro switch for roast tray being inserted  - pulled to GND
 * 13 (PCB side 7th from left)
