@@ -52,34 +52,52 @@ It should also serve as a nice power supply for our new Raspberry Pi.
 
 This 10x2 ribbon cable seems to do contain all the control signals we need to attach to.
 
-* TODO: map out the pins
+TODO: map out the pins
+
 * 1 (PCB side left)
+  * 🛠 unknown
 * 2
+  * 🛠 unknown
 * 3 (PCB side 2nd from left)
+  * 🛠 unknown
 * 4 
+  * 🛠 unknown
 * 5 (PCB side 3rd from left)
+  * 🛠 unknown
 * 6 
-* 7 (PCB side 4th from left) - Micro switch for inserted coffee pot  - pulled to GND
-* 8 - +3,3V supply?
-* 9 (PCB side 5th from left) - 3.3V
+  * 🛠 unknown
+* 7 (PCB side 4th from left)
+  * 🗹 Micro switch for inserted coffee pot  - pulled to GND
+* 8
+  * 🛠 +3,3V supply?
+* 9 (PCB side 5th from left) - 3.3V 
   * pulled to GND during grinding
-  * pulling to GND ourself does nothing
-  * disconnecting during grinding does nothing
+  * 🛠 pulling to GND ourself does nothing
+  * 🛠 disconnecting during grinding does nothing
 * 10 - 0V
   * may be a short voltage while opening or closing the hole in the roasting tray
 * 11 (PCB side 6th from left) - 3.3V
   * pulled to GND during grinding
-  * pulling to GND ourself does nothing
-  * disconnecting during grinding does nothing
-* 12 - Micro switch for roast tray being inserted  - pulled to GND
-* 13 (PCB side 7th from left) - Micro switch for inserted air filter  - pulled to GND
-* 14 - +5V supply?
+  * 🛠 pulling to GND ourself does nothing
+  * 🛠 disconnecting during grinding does nothing
+* 12
+  * 🗹 Micro switch for roast tray being inserted  - pulled to GND
+* 13 (PCB side 7th from left)
+  * 🗹 Micro switch for inserted air filter  - pulled to GND
+* 14
+  * 🗹 +5V supply?
 * 15 (PCB side 8th from left)
-* 16 - +3,3V supply?
+  * 🛠 unknown
+* 16
+  * 🗹 +3,3V supply?
 * 17 (PCB side 9th from left)
-* 18 -
+  * 🛠 unknown
+* 18
+  * 🛠 unknown
 * 19 (PCB side rightmost one)
-* 20 - some +3,3V signal (3,21V when idle)
+  * 🛠 unknown
+* 20
+  * 🗹 some +3,3V signal (3,21V when idle)
 
 ### less interesting ones:
 
