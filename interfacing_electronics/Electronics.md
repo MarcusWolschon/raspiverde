@@ -37,7 +37,9 @@ It has outputs
 The box has a screw on the bottom of the side and 2 obvious push fit connectors.
 It can be opened without detaching the front panel.
 It seems to get lower power signals from the front panel and switch the different high power elements.
-So it seems like we can attach ourself to that ribbon cable instead of the front panel to control this machine without having to touch any high power electronics ourself.
+So it seems like we can attach ourself to that ribbon cable instead of the front panel to control this machine without having to touch any high power electronics ourself.![relay_box_front](C:\Users\mw2_7\Documents\GitHub\raspiverde\interfacing_electronics\relay_box_front.JPG)
+
+![relay_box_back](C:\Users\mw2_7\Documents\GitHub\raspiverde\interfacing_electronics\relay_box_back.JPG)
 
 ### CN21
 
