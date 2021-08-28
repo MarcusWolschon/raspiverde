@@ -125,8 +125,8 @@ Power output to the water heater
 
 #### CN4
 
-* 1+2 (Red) **Unknown** - first small Sensor(?) PCB below roasting chamber
-* 3+4 (Black) **Unknown** - second small Sensor(?) PCB below roasting chamber
+* 1+2 (Red) Micro switch front right on stepper below roasting chamber
+* 3+4 (Black) Micro switch front right on stepper below roasting chamber
 * 5+6 (Brown) Micro switch in roasting chamber
 
 #### CN5
